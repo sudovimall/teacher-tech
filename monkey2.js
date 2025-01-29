@@ -137,7 +137,7 @@
         }
       });
       setTimeout(() => {
-        const button = $('.fish-btn fish-btn-primary')[0];
+        const button = $('.fish-btn')[0];
         if (button) {
           button.click();
         }
